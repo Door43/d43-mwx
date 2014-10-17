@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mwx:home|Door43 (mwx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mwx|d43-mwx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mwx/archive/master.zip|d43-mwx.zip]]
+
+**Recent Changes**
+{{changes>ns = mwx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mwx|Ethnologue data]]
+
